@@ -1,4 +1,5 @@
 # Agenda de tarefas em python
+Este é meu projeto de uma agenda de tarefas criada em python, onde utilizei de referência um post que encontrei no instragram. Fique a vontade para clonar e implementar melhorias ou testar o código!
 
 # Sobre o projeto
 
